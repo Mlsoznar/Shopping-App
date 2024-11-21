@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "Sakız",
+        "price": 0.5,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH_tAdmgyjzy8I5gzaO8WI4x-sl9fuABeoDcYQXRQgpwvL4YjPlFlfj2C6xzxPM6f-Nkg&usqp=CAU"
+    },
+    {
+        "id": 2,
+        "title": "Fanta",
+        "price": 40,
+        "image": "https://brezenglueck.de/wp-content/uploads/2022/03/fa_orange05l_pet.png"
+    },
+    {
+        "id": 3,
+        "title": "Cips",
+        "price": 35,
+        "image": "https://images.migrosone.com/macrocenter/product/05081221/5081221-18cc99-1650x1650.png"
+    },
+    {
+        "id": 4,
+        "title": "Türk Kahvesi",
+        "price":  55,
+        "image": "https://www.peynircibaba.com/image/catalog/urunler/8690627021209.jpg"
+    }
+]
